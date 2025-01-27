@@ -1,0 +1,17 @@
+body{
+	background-color:#eff2f6 !important;
+}
+.menu{
+	padding-top:60px;
+	padding-left:30px;
+	height:100vh;
+	background-color:#fff;
+}
+.menu a{
+	text-decoration:none;
+	color:#000;
+	font-size:20px;
+}
+.menu p:hover{
+	background-color:#eff2f6;
+}

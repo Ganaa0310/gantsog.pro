@@ -1,0 +1,26 @@
+/* Eheljiin*/
+body{
+   background-color:#eff2f6 !important;
+}
+/* end duusaj bn*/
+.mobile-header{
+	display:none;
+}
+.box{
+	width:150px;
+	height:150px;
+	background-color:red;
+}
+@media screen and (max-width:767px){
+	.mobile-header{
+		display:block;
+	}
+	.header{
+		display:none;
+	}
+	.box{
+		background-color:green;
+	}
+}
+
+
